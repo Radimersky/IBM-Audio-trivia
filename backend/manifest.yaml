@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Audio-trivia proxy
+   random-route: true
+   memory: 128M
